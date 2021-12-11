@@ -7,6 +7,10 @@
 </head>
 <body>
     <h1><strong>討厭阿夸的理由</strong></h1>
+    <audio controls muted autoplay>
+        <source src="1.mp3" type="audio/mp3" />
+    </audio>
+    <p></p>
     <p></p>
     <p></p>
     <ol>
